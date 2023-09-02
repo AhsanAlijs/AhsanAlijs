@@ -1,4 +1,4 @@
-![Header](./github-header-image(3).png)
+![Header](<img align="center"src="https://github.com/Ahsan-ali001/Ahsan-ali001/blob/main/github-header-image%20(3).png?raw=true">)
 [![Contributors](https://img.shields.io/github/contributors/joshbuchea/head.svg?style=for-the-badge)](https://github.com/joshbuchea/HEAD/graphs/contributors)
 <h1 align="center">Hi 👋, I'm Ahsan Ali</h1>
 <h3 align="center">A passionate frontend developer from pakistan</h3>

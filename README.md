@@ -1,4 +1,3 @@
-![Header](./your-header-image-name.png) 
 [![Contributors](https://img.shields.io/github/contributors/joshbuchea/head.svg?style=for-the-badge)](https://github.com/joshbuchea/HEAD/graphs/contributors)
 <h1 align="center">Hi 👋, I'm Ahsan Ali</h1>
 <h3 align="center">A passionate frontend developer from pakistan</h3>

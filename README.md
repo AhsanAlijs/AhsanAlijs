@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **javascript,etc**
 
-- 👨‍💻 All of my projects are available at [https://AhsanAlijs.github.io/Portfolio-new/](https://AhsanAlijs.github.io/Portfolio-new/)
+- 👨‍💻 All of my projects are available at [https://AhsanAlijs.github.io/Portfolio-new/]([https://AhsanAlijs.github.io/Portfolio-new/](https://ahsanalijs.github.io/Portfolio/#portfolio))
 
 - 💬 Ask me about **html Css JavaScript and etc**
 
